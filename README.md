@@ -3,14 +3,14 @@
 ## ¿QUÉ ES UN CHATBOT?
 
 Un chatbot es un programa muy importante para la revolución de la IA, y simula una conversación humana, haciendo posible una interacción más natural con los ordenadores.
-Esta herramienta nos ayuda a ahorrar tiempo y dinero mediante la automatización de las tareas de atención al cliente. También se puede usar como herramienta de enseñanza a los niños, sobre programación y lógica, mediante instrucciones y comandos simples. 
-Los chatbots utilizan la inteligencia artificial para interpretar frases y, son capaces de detectar las emociones humanas
+Esta herramienta nos ayuda a ahorrar tiempo y dinero mediante la automatización de las tareas de atención al cliente. También se puede usar como herramienta de enseñanza para los niños, sobre programación y lógica, mediante instrucciones y comandos simples. 
+Los chatbots utilizan la inteligencia artificial para interpretar frases, y son capaces de detectar las emociones humanas.
 
 ## TIPOS DE CHATBOTS
 
 * __Chatbot basado en reglas__
 
-Estos tipos de chatbots son programados mediante unas normas estableciadas previamente por un humano. De esta manera, su uso es muy limitado, a pequeñas tareas.
+Estos tipos de chatbots son programados mediante unas normas estableciadas previamente por un humano. De esta manera, su uso es muy limitado, solo puede realizar pequeñas tareas.
 
 * __Chatbot de machine learning__
 
@@ -36,18 +36,30 @@ Otra desventaja es que, al estar programado por humanos, se encuentran fallas o 
 
 ## ¿CÓMO FUNCIONAN?
  
- Utiliuzan el natural language processing (NLP)
-* #### CLASIFIACIÓN DE TEXTO
-* #### ANALIZAR PALABRAS EN UNA FRASE
-* #### GENERADOR DE TEXTO
-* #### TRADUCCIÓN DE IDIOMAS
-* #### PREGUNTAS Y RESPUESTAS
-* #### CONVERSACIÓN DE LA IA
+ Utilizan el Natural Language Processing (NLP)(un tipo de inteligencia artifical que permite a los ordenadores entender el lenguaje humano) para procesar los input's de los usuarios.
+ 
+ El Natural Language Processing se pude clasificar en diferentes categorias: 
+ 
+* #### Clasificador de texto de acuerdo a su contenido.
+
+* #### Analizador palabras de una frase
+
+* #### Generador de texto
+
+* #### Traductor de idiomas
+
+* #### Preguntas y respuestas
+
+* #### IA Conversacional para mantener una conversación con humanos.
 
 ## CONCEPTOS IMPORTANTES ASOCIADOS A LOS CHATBOTS
 
-El reconociminirnto de las intenciones y de la identidad son dos cosas muy importantes en el desarrollo de los chatbots.
-
 * #### Reconocimiento de intenciones
 
+Reconoce las intenciones del usuario para dar una respuesta apropiada.
+
 * #### Reconocimiento de indentidad
+
+El reconocimiento de identidad permite identificar la información relevante que le ofrece el usuario para saber qué quiere.
+
+Estos dos conceptos ayudan al chatbot a realizar tareas más complicadas gracias a los detalles que se analizan de la información recibida.
